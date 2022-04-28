@@ -8,7 +8,10 @@
     height: 500px;
     border-radius: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(/descarga.jpg); 
+    background-size:contain;  
 }
+
 .calculadora td button{
     display: block;
     width: 70px;
